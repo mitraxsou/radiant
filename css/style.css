@@ -18,8 +18,8 @@ blockquote, q {
 	quotes: none;
 }
 #myNavbar{
-	/*background-color: rgb(32, 145, 153); */
-    margin-top: 10px;
+	background-color: #015d6b;
+    border-color: #015d6b;
 }
 }
 blockquote:before, blockquote:after,
@@ -105,7 +105,7 @@ HEADER
 {
 }
 .navbar-default {
-    background-color: #287986;
+    background-color: #015d6b;
     border:0px;
     padding: 20px 0; 
     transition: all 0.3s;
@@ -120,7 +120,7 @@ HEADER
     padding: 0; 
     
 	height: 65px;
-	background-color: #002F2F
+	background-color: #015d6b
 	
 }
 
